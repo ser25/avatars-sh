@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avatars-sh/static/css/main.b646e565.css",
+    "main.js": "/avatars-sh/static/js/main.128cc03b.js",
+    "static/js/787.6b99df77.chunk.js": "/avatars-sh/static/js/787.6b99df77.chunk.js",
+    "index.html": "/avatars-sh/index.html",
+    "main.b646e565.css.map": "/avatars-sh/static/css/main.b646e565.css.map",
+    "main.128cc03b.js.map": "/avatars-sh/static/js/main.128cc03b.js.map",
+    "787.6b99df77.chunk.js.map": "/avatars-sh/static/js/787.6b99df77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b646e565.css",
+    "static/js/main.128cc03b.js"
+  ]
+}
